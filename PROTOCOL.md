@@ -6,7 +6,7 @@
 **Date committed:** 2026-07-20 (before any method build).
 
 This protocol — the health-indicator construction, failure-threshold rule, data splits,
-metrics, and the pass/fail falsifiers — was fixed before any model was trained or any result
+metrics and the pass/fail falsifiers — was fixed before any model was trained or any result
 was seen. It is included verbatim so the pre-specification can be inspected.
 
 ---
