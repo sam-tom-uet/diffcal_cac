@@ -17,8 +17,8 @@ recalibration arms and the direct-RUL control are existing methods used to local
 ## Pre-specified protocol
 
 This was a **pre-specified** study. The analysis protocol — health-indicator
-construction, failure-threshold rule, data splits, metrics, recalibration arms and the
-pass/fail falsifiers — was fixed in [`PROTOCOL.md`](PROTOCOL.md) on **2026-07-20**, before
+construction, failure-threshold rule, data splits, metrics, and acceptance criteria — was
+fixed in [`PROTOCOL.md`](PROTOCOL.md) on **2026-07-20**, before
 any model was built. `PROTOCOL.md` is included here verbatim so the pre-specification can be
 inspected. (We call it *pre-specified* rather than *pre-registered* because it was not
 lodged in an independent public registry ahead of the analysis.)
