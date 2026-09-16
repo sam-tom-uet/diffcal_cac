@@ -1,0 +1,7 @@
+# DiffCal experiments — core dependencies (versions used for the reported runs)
+torch==2.11.0        # + CUDA 12.8 build (cu128); CPU works but is slow
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+# Standard library used: json, os, re, math, time, argparse, glob
